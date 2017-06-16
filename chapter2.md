@@ -8,5 +8,3 @@ description : Insert the chapter description here
 
 "Here some text"
 
-*** =video_link
-//player.vimeo.com/video/154783078
